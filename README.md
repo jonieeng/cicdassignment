@@ -16,13 +16,13 @@
 
 6. Go to browser `http://localhost:30xx` and enter
 
-7. Key in ** Customer Name/Username/Password ** to see the update!
+7. Key in **Customer Name/Username/Password** to see the update!
   
 # My Journey of CI/CD Assignment
 
 [Setting Up Docker Project] (https://docs.docker.com/ci-cd/github-actions/)
 
-![alt text] (https://i.stack.imgur.com/0DJ00.png)
+![alt text] (https://i.stack.imgur.com/0DJ00.png/200/200)
 
 [Remove Docker Desktop] (https://github.com/docker/toolbox/blob/master/osx/uninstall.sh)
 
