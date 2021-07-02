@@ -1,4 +1,2 @@
-FROM alpine
-LABEL maintainer = "jonie.eng@gmail.com"
-EXPOSE 8080
-CMD ["node"]
+FROM nginx:alpine
+COPY . /usr/share/nginx/html
