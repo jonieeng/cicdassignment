@@ -54,12 +54,12 @@ He got my problem solved!!! :innocent:
 
 `docker run -d -p 3005:80 cicdassignment:v1`
 
-# Update Dockerfile 
+## Update Dockerfile 
 `FROM nginx:alpine`
 
 `COPY . /usr/share/nginx/html`
 
-# Update YML
+## Update YML
 
 ```publish.yml
 
