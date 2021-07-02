@@ -24,7 +24,7 @@ And I thought that it was easy to follow the below link.
 
 [Setting Up Docker Project](https://docs.docker.com/ci-cd/github-actions/)
 
-However, when I was trying to set up the docker build and docker run on my local via Docker Desktop, that's the beginning of my midnightmare!
+However, when I was trying to set up the docker build and docker run on my local via Docker Desktop, that's the beginning of my nightmare!
 
 I googled, did multiple tries, but I kept having the same error below:-
 
