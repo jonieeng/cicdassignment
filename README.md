@@ -10,7 +10,7 @@
   - `git commit -m "update"` 
   - `git push origin main`
 
-4. Go over docker desktop Images - Remote Respositiories -> PULL (2 times - NO IDEA WHY NEED TO PULL 2 TIMES :raised_eyebrow:)
+4. Go over docker desktop Images - Remote Respositiories -> PULL (2 times - NO IDEA WHY NEED TO PULL 2 TIMES :raised_eyebrow: )
 
 5. Appear on Images - Local -> RUN Local Host: 30xx (Change the behind number) and Run
 
@@ -20,7 +20,7 @@
   
 # My Journey of CI/CD Assignment
 It was a smooth process setting up of the Docket Project and GitHub Actions Workflow.
-And I was thinking that was easy follow the below link
+And I thought that it was easy to follow the below link.
 
 [Setting Up Docker Project](https://docs.docker.com/ci-cd/github-actions/)
 
@@ -37,21 +37,19 @@ And things got worst when my screen was showing fatal error :confounded:
 
 ![alt text](https://i.stack.imgur.com/0DJ00.png/200/200)
 
-I was stucked for hours trying to delete/uninstall Docker Desktop but the alert was 
+I was stuck for hours trying to delete/uninstall Docker Desktop, but I had the alert
 
-> The item Docker can't move  to bin because it's open yet. 
-
-:anger:
+> The item Docker can't move to bin because it's open yet. 
 
 After many hours later, I chanced by [Remove Docker Desktop](https://github.com/docker/toolbox/blob/master/osx/uninstall.sh) and managed to remove Docker Desktop from my applications.
 
-After spending more than 12 hours, I finally gave up to include docker in my workflow. 
+After spending more than 12 hours, I finally gave up on including docker in my workflow. 
 
-[Prof Edward](https://www.linkedin.com/in/edwardjoesoef/) came to rescue! 
+[Prof Edward](https://www.linkedin.com/in/edwardjoesoef/) came to the rescue! 
 
-He got my problem solved with running below code on Terminal
+He got my problem solved!!! :innocent:
 
-## Docker 
+## Run Terminal
 `docker build . -t cicdassignment:v1`
 
 `docker run -d -p 3005:80 cicdassignment:v1`
@@ -75,4 +73,4 @@ He got my problem solved with running below code on Terminal
     tags: ${{ secrets.DOCKER_HUB_USERNAME }}/cicdassignment:latest
 ```
 
- And yes, now I'm able to docker build and run is auotmated in my workflow.   
+ And yes, now I'm able to docker build and run, add as part of my workflow.   
