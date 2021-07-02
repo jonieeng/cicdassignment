@@ -24,9 +24,9 @@ And I thought that it was easy to follow the below link.
 
 [Setting Up Docker Project](https://docs.docker.com/ci-cd/github-actions/)
 
-However, when I'm trying to set up the docker build and docker run on my local via docker desktop, that's the beginning of my midnightmare!
+However, when I was trying to set up the docker build and docker run on my local via Docker Desktop, that's the beginning of my midnightmare!
 
-I googled, did multiple tries, but I kept having the error below:-
+I googled, did multiple tries, but I kept having the same error below:-
 
 > Unable to find image 'jonieeng/cicdassignment:latest' locally
 docker: Error response from daemon: manifest for jonieeng/cicdassignment:latest not found: manifest unknown: manifest unknown.
@@ -41,9 +41,9 @@ I was stuck for hours trying to delete/uninstall Docker Desktop, but I had the a
 
 > The item Docker can't move to bin because it's open yet. 
 
-After many hours later, I chanced by [Remove Docker Desktop](https://github.com/docker/toolbox/blob/master/osx/uninstall.sh) and managed to remove Docker Desktop from my applications.
+After many hours later :anger:, I chanced by [Remove Docker Desktop](https://github.com/docker/toolbox/blob/master/osx/uninstall.sh) and managed to remove Docker Desktop from my applications.
 
-After spending more than 12 hours, I finally gave up on including docker in my workflow. 
+Spent more than 12 hours, I finally gave up on including Docker in my workflow. 
 
 [Prof Edward](https://www.linkedin.com/in/edwardjoesoef/) came to the rescue! 
 
