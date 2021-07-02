@@ -43,6 +43,8 @@ I was stuck for hours trying to delete/uninstall Docker Desktop, but I had the a
 
 After many hours later :anger: , I chanced by [Remove Docker Desktop](https://github.com/docker/toolbox/blob/master/osx/uninstall.sh) and managed to remove Docker Desktop from my applications.
 
+I decided to give it another try on Docker, so I re-installed Docker Desktop and start over again. 
+
 Spent more than 12 hours, I finally gave up on including Docker in my workflow. 
 
 [Prof Edward](https://www.linkedin.com/in/edwardjoesoef/) came to the rescue! 
