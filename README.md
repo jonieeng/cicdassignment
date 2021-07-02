@@ -35,7 +35,7 @@ docker: Error response from daemon: manifest for jonieeng/cicdassignment:latest 
 
 And things got worst when my screen was showing fatal error :confounded:
 
-![alt text](https://pbs.twimg.com/media/E36PFk1VEAsfv0P.jpg/200/200)
+![alt text](https://pbs.twimg.com/media/E36PFk1VEAsfv0P.jpg)
 
 I was stuck for hours trying to delete/uninstall Docker Desktop, but I had the alert
 
