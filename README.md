@@ -39,9 +39,9 @@ And things got worst when my screen was showing fatal error :confounded:
 
 I was stuck for hours trying to delete/uninstall Docker Desktop, but I had the alert
 
-> The item Docker can't move to bin because it's open yet. 
+> The item "Docker" can't be moved to the Bin because it's open. 
 
-After many hours later :anger:, I chanced by [Remove Docker Desktop](https://github.com/docker/toolbox/blob/master/osx/uninstall.sh) and managed to remove Docker Desktop from my applications.
+After many hours later :anger: , I chanced by [Remove Docker Desktop](https://github.com/docker/toolbox/blob/master/osx/uninstall.sh) and managed to remove Docker Desktop from my applications.
 
 Spent more than 12 hours, I finally gave up on including Docker in my workflow. 
 
