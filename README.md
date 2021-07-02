@@ -57,8 +57,9 @@ He got my problem solved with running below code on Terminal
 `docker run -d -p 3005:80 cicdassignment:v1`
 
 # Update Dockerfile 
-`FROM nginx:alpine
-COPY . /usr/share/nginx/html`
+`FROM nginx:alpine`
+
+`COPY . /usr/share/nginx/html`
 
 # Update YML
 
@@ -72,5 +73,6 @@ COPY . /usr/share/nginx/html`
     file: ./Dockerfile
     push: true
     tags: ${{ secrets.DOCKER_HUB_USERNAME }}/cicdassignment:latest
-    
+```
+
  And yes, now I'm able to docker build and run is auotmated in my workflow.   
