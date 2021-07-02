@@ -10,9 +10,9 @@
   - `git commit -m "update"` 
   - `git push origin main`
 
-4. Go over docker desktop Images - Remote Respositiories -> PULL (2 times - NO IDEA WHY NEED TO PULL 2 TIMES :raised_eyebrow: )
+4. Go over Docker Desktop Images - Remote Respositiories -> PULL (NO IDEA WHY NEED TO PULL 2 TIMES :raised_eyebrow: )
 
-5. Appear on Images - Local -> RUN Local Host: 30xx (Change the behind number) and Run
+5. Appear on Images - Local -> RUN Local Host: 30xx (change the last 2 digits) and Run
 
 6. Go to browser `http://localhost:30xx` and enter
 
