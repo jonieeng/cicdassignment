@@ -47,7 +47,7 @@ I decided to give it another try on Docker, so I re-installed Docker Desktop and
 
 Spent more than 12 hours, I finally gave up on including Docker in my workflow. 
 
-[Prof Edward](https://www.linkedin.com/in/edwardjoesoef/) came to the rescue! 
+And I got help from my classmate:Prof Edward, who came to the rescue! 
 
 He got my problem solved!!! :innocent:
 
