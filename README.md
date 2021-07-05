@@ -1,7 +1,7 @@
 # cicdassignment
 
 ## Steps:
-1. Go over to [DockerHub]https://hub.docker.com/u/jonieeng/Docker Desktop kill all Containers/Images-Local
+1. Go over to [DockerHub](https://hub.docker.com/u/jonieeng/Docker) / Docker Desktop kill all Containers/Images-Local
 
 2. Modify script.js (or any other files) and save the changes
 
