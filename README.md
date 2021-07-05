@@ -10,7 +10,7 @@
   - `git commit -m "update"` 
   - `git push origin main`
 
-4. Go over Docker Desktop Images - Remote Respositiories -> PULL (NO IDEA WHY NEED TO PULL 2 TIMES :raised_eyebrow: )
+4. Go over Docker Images - Remote Respositiories -> PULL (NO IDEA WHY NEED TO PULL 2 TIMES :raised_eyebrow: )
 
 5. Appear on Images - Local -> RUN Local Host: 30xx (change the last 2 digits) and Run
 
